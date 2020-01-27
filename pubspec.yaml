@@ -15,7 +15,7 @@ dependencies:
   node_http: ^1.0.0
   firebase_admin_interop:
     git:
-      url: https://github.com/Skquark/firebase-admin-interop
+      url: https://github.com/pspgt/firebase-admin-interop
 
 dev_dependencies:
   test: any
